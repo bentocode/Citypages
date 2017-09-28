@@ -1,0 +1,25 @@
+/*additional css styles for citypages project*/
+/*color hex codes: main-green: 388e3c, accent-yellow: c72e15, dark-gray: 1c222, light-gray: f9faf9*/
+/*google font: Pacifico*/
+
+.main-green {
+    background-color: #388e3c;
+}
+
+.footer-text {
+    color: #fff;
+    font-size: 24px;
+    padding: 10px 20px;
+}
+
+.header-main-text {
+    font-family: "Damion", cursive;
+    font-size: 60px;
+    color: #fff;
+}
+
+.header-city-name {
+    font-family: "Arial", sans-serif;
+    font-size: 28px;
+    color: #fff;
+}
