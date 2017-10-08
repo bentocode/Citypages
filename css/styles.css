@@ -15,6 +15,10 @@ img {
     padding: 5px;
 }
 
+.page-body {
+    max-width: 850px;
+}
+
 .main-green {
     background-color: #388e3c;
 }
